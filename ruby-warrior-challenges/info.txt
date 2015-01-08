@@ -1,0 +1,4 @@
+###### What is this about?? ######
+  Solutions for the 9 challenges/level of Ruby Warrior game https://www.bloc.io/ruby-warrior/#/
+###### Why??? ######
+  Simply because am learning Ruby and this seemed like a good idea!
