@@ -1,5 +1,5 @@
 ##
-# Level 1 challenge
+# Level 2 challenge
 #
 # It is too dark to see anything, but you smell sludge nearby.
 # Use warrior.feel.empty? to see if there is anything in front of you, and warrior.attack! to fight it.  
